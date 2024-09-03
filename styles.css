@@ -79,3 +79,10 @@ ul {
     text-decoration: underline;
     color:red;
 }
+.con{
+    display:inline-flex;
+}
+.con p{
+    padding-left:50px;
+    text-align:center;
+}
